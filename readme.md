@@ -40,8 +40,10 @@ https://blog.csdn.net/Elvira521yan/article/details/104804171
 
 https://github.com/microsoft/unilm/tree/master/dit/object_detection
 
-python app.py
 
+https://github.com/PrashantSaikia/LayoutLMv2-FUNSD
+
+python app.py
 
 docker build -t qa-e2e .
 docker run -p 8082:8080 qa-e2e
